@@ -10,3 +10,4 @@ An E-book practice and learning for data science. The examples are used for educ
      - Data sets
     
 2. [ ] **Chapter 2: Data Munging**
+    - Data loading and preprocessing with pandas
