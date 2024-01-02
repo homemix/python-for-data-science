@@ -13,3 +13,4 @@ An E-book practice and learning for data science. The examples are used for educ
     - Data loading and preprocessing with pandas
     - Dealing with problematic data 
     - Dealing with big datasets
+    - Putting data together 
