@@ -11,7 +11,10 @@ An E-book practice and learning for data science. The examples are used for educ
     
 2. [ ] **Chapter 2: Data Munging**
     - Data loading and preprocessing with pandas
-    - Dealing with problematic data 
-    - Dealing with big datasets
-    - Putting data together
-    - Data preprocessing
+      - Dealing with problematic data 
+      - Dealing with big datasets
+      - Putting data together
+      - Data preprocessing
+      - Data selection
+    - Working with categorical and textual data
+    - 
