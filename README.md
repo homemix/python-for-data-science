@@ -17,4 +17,4 @@ An E-book practice and learning for data science. The examples are used for educ
       - Data preprocessing
       - Data selection
     - Working with categorical and textual data
-    - 
+      - A special type of dat - text
